@@ -1,4 +1,6 @@
 # GopherGold
+![Short clip of the application](https://media.giphy.com/media/jsaGMuMEwinniIwHJj/giphy.gif)
+
 A platform for joke crowd sourcing which lets the joke creators rate their own jokes 
 
 ## Getting started
