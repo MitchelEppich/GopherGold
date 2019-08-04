@@ -36,4 +36,4 @@ To get this web project running locally:
 - Create an API for other sites to embed our jokes and our joke submission forms
 - Allow optional images to be posted along with each joke
 
-`Note: This application has been forked from [here](https://github.com/mo-hit/takehome-coding-challenge)`
+`Note: This application has been forked from https://github.com/mo-hit/takehome-coding-challenge`
