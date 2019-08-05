@@ -29,6 +29,12 @@ To get this web project running locally:
 - If a joke falls outside of the score range(1 to 10) it will be rejected
 - Users will be informed if their joke is accepted or rejected
 
+## Other Improvements
+
+- Expanded test cases to test new functionality appropriately
+- New view page to inform users that their joke has been rejected
+- New view page to inform users that their joke has been approved
+
 ## Future Improvements
 
 - Full re-design of the user interface
